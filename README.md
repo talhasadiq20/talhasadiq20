@@ -10,6 +10,7 @@
 <!-- Typing-style headline replaced with Pac-Man animation -->
 <div style="display:flex; justify-content:center; align-items:center; gap:10px; margin-top:10px;">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Pac-Man moving animation"/>
+<bl/>
   <span style="font-size:1.2em; font-weight:bold; color:#36BCF7;">Relentless Progress • Automation • Bold Code</span>
 </div>
 
