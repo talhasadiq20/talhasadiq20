@@ -1,70 +1,75 @@
 <div align="center">
 
-# 🎮 Talhaa  
-### Game Dev Mind • Systems Thinker • Digital Experimenter
+# 👑 Talhaa  
+### Builder of Systems • Architect of Code • Relentlessly Curious
 
-🖤 Code is my weapon.  
-🧠 Systems are my playground.  
-🔥 Experiments are my doctrine.
+🖤 Web • Desktop • Experiments  
+⚔️ I build. I break. I refine.  
+🚀 Dark mode by instinct.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=8BE9FD&center=true&vCenter=true&width=750&lines=Games+are+systems.;Systems+deserve+respect.;Prototype.+Playtest.+Iterate.;Fun+is+engineered.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=850&color=36BCF7&center=true&vCenter=true&width=750&lines=Bold+Code+Wins.;Clean+Systems+Only.;Learning+Never+Stops.;Confidence+Ships+Code.">
 
 </div>
 
 ---
 
-## 🧠 Player Profile
+## 🧠 About Me
 
-I approach development like game design:
+I don’t hoard unfinished repos for validation.  
+I **build**, **learn**, and **move forward**.
 
-- Mechanics first  
-- Systems over hacks  
-- Iteration over perfection  
+My work spans:
+- 🌐 Web interfaces that respect UX  
+- 🖥️ Desktop tools that solve real problems  
+- 🧪 Experiments that sharpen judgment  
 
-I’ve explored **game dev, web dev, desktop tools**, and experimental builds—  
-not to collect repos, but to **master patterns**.
-
-Some projects shipped.  
-Some were scrapped.  
-All improved my stats.
+Some projects stay private.  
+Some are abandoned on purpose.  
+Growth doesn’t need witnesses.
 
 ---
 
-## 🎮 Skills & Tools
+## ⚔️ Tech Arsenal (Animated)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,godot&theme=dark" />
+### 🧬 Languages
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,dart&theme=dark" />
+
+### 🎨 Frontend & Styling
 <img src="https://skillicons.dev/icons?i=react,css,tailwind,sass&theme=dark" />
-<img src="https://skillicons.dev/icons?i=flutter,electron,dart&theme=dark" />
+
+### 🏗️ Frameworks & Platforms
+<img src="https://skillicons.dev/icons?i=flutter,electron,nodejs&theme=dark" />
 
 </div>
 
 ---
 
-## 🕹️ Things I’ve Played With (And Learned From)
+## 🧩 What I’ve Built
 
-- 🎮 Game prototypes (mechanics, movement, systems)
-- 🧠 Logic-heavy experiments & simulations
-- 🖥️ Desktop tools & utilities
-- 🌐 UI systems inspired by game UX principles
+- 🌐 Responsive websites & UI-heavy systems  
+- 🖥️ Desktop utilities (photo arrangers, custom tools)  
+- ⚙️ Personal projects focused on speed, clarity, and learning  
+- 🧠 Countless prototypes designed to test ideas fast  
 
-Games teach discipline.  
-Games expose bad architecture fast.  
-That’s why I like them.
-
----
-
-## 🧪 Current Focus
-
-- Godot systems & scripting
-- Cross-platform tooling
-- Clean architecture
-- Making complex things *feel simple*
+Not everything deserves permanence.  
+Some things exist to teach.
 
 ---
 
-## 📊 Player Stats
+## 🌱 Currently Advancing
+
+- Flutter & Dart (cross-platform discipline)
+- Electron-based desktop apps
+- Cleaner architecture
+- Stronger product thinking
+
+Always sharpening. Never finished.
+
+---
+
+## 📊 GitHub Stats (Quiet Flex)
 
 <div align="center">
 
@@ -76,18 +81,18 @@ That’s why I like them.
 
 ---
 
-## 🏁 Multiplayer?
+## 🤝 Collaboration
 
-If you enjoy:
-- Building systems from scratch
-- Iterating until it *feels right*
-- Treating code like design
+I respect:
+- Builders
+- Thinkers
+- People who finish things
 
-Then yes—  
-we should play co-op.
+If that’s you—  
+we’ll get along just fine.
 
 <div align="center">
 
-🖤 *Insert coin. Press start.* 🖤
+🖤 *Stars are optional. Standards are not.* 🖤
 
 </div>
