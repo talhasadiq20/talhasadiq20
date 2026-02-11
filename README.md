@@ -42,7 +42,7 @@ All sharpen the edge.
 <div align="center">
 
 ### 🧬 Languages
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,dart,godot,sqlite,mt5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,dart,godot,sqlite,mql&theme=dark" />
 
 ### 🎨 Frontend & Styling
 <img src="https://skillicons.dev/icons?i=react,css,tailwind,sass,html&theme=dark" />
