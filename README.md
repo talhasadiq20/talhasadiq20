@@ -1,11 +1,93 @@
-<h1 align="center">Hi 👋, I'm Talha Malik</h1>
-<h3 align="center">A Self-made programmer With skills in different Languages</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [W.I.SE](https://github.com/talhasadiq20/W.I.SE)
+# 🎮 Talhaa  
+### Game Dev Mind • Systems Thinker • Digital Experimenter
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🖤 Code is my weapon.  
+🧠 Systems are my playground.  
+🔥 Experiments are my doctrine.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=8BE9FD&center=true&vCenter=true&width=750&lines=Games+are+systems.;Systems+deserve+respect.;Prototype.+Playtest.+Iterate.;Fun+is+engineered.">
+
+</div>
+
+---
+
+## 🧠 Player Profile
+
+I approach development like game design:
+
+- Mechanics first  
+- Systems over hacks  
+- Iteration over perfection  
+
+I’ve explored **game dev, web dev, desktop tools**, and experimental builds—  
+not to collect repos, but to **master patterns**.
+
+Some projects shipped.  
+Some were scrapped.  
+All improved my stats.
+
+---
+
+## 🎮 Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,css,tailwind,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,electron,dart&theme=dark" />
+
+</div>
+
+---
+
+## 🕹️ Things I’ve Played With (And Learned From)
+
+- 🎮 Game prototypes (mechanics, movement, systems)
+- 🧠 Logic-heavy experiments & simulations
+- 🖥️ Desktop tools & utilities
+- 🌐 UI systems inspired by game UX principles
+
+Games teach discipline.  
+Games expose bad architecture fast.  
+That’s why I like them.
+
+---
+
+## 🧪 Current Focus
+
+- Godot systems & scripting
+- Cross-platform tooling
+- Clean architecture
+- Making complex things *feel simple*
+
+---
+
+## 📊 Player Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏁 Multiplayer?
+
+If you enjoy:
+- Building systems from scratch
+- Iterating until it *feels right*
+- Treating code like design
+
+Then yes—  
+we should play co-op.
+
+<div align="center">
+
+🖤 *Insert coin. Press start.* 🖤
+
+</div>
