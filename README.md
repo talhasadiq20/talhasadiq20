@@ -98,6 +98,20 @@ Always sharpening. Never finished.
 
 ---
 
+<div align="center" style="margin-top:30px;">
+  <svg width="200" height="40" viewBox="0 0 200 40">
+    <circle cx="20" cy="20" r="5" fill="#36BCF7">
+      <animate attributeName="cx" values="20;180" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="40" cy="20" r="5" fill="#36BCF7">
+      <animate attributeName="cx" values="40;200" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M10,20 A10,10 0 1,1 10,20" fill="#F7DC36">
+      <animateTransform attributeName="transform" type="translate" values="0 0;180 0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </svg>
+</div>
+
 ## 🤝 Collaboration
 
 I respect:
